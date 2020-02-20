@@ -1,0 +1,40 @@
+@media screen and (min-width: 319px) and (max-width: 479px) {
+  .number-post{
+      display: none;
+      }
+      .simples{
+        text-align: center;
+      }
+      .re_pes{
+      margin-right: 40px;
+      margin-top: 9px;
+      margin-bottom: 8px;
+      }
+
+      .lef_pes{
+        margin-left: 55px;
+      }
+      .pescent{
+        margin-right: 19px;
+      }
+      .mais_opcoes{
+        margin-top: 20px;
+      }
+      .ocultar_opcoes{
+        margin-top: 20px;
+      }
+}
+
+@media only screen and (max-width: 640px) {
+
+  .re_pes{
+    margin-right: 2px;
+    margin-top: 9px;
+    margin-bottom: 8px;
+  }
+
+  .lef_pes{
+    margin-left: 2px;
+  }
+
+}
